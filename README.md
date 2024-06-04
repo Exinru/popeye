@@ -1,5 +1,5 @@
 # Popeye
-###### by: Xinru
+###### Module: Devops
 ## Objectives:
 * Creation of images using Dockerfiles
 * Creation & deployment using Docker Compose
